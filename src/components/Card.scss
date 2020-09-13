@@ -1,0 +1,18 @@
+.card {
+  width: 100px;
+  height: 150px;
+  border: 1px solid;
+  display: inline-flex;
+}
+
+.unopened {
+  background-color: black;
+}
+
+.opened {
+  background-color: white;
+}
+
+.invisible {
+  visibility: hidden;
+}
