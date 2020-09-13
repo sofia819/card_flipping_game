@@ -1,4 +1,4 @@
-# Card Flipping Game
+# [Card Flipping Game](https://sofia819.github.io/card_flipping_game/)
 <img src="public\game.gif" >
 
 ## Instructions
