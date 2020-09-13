@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/card_flipping_game/static/css/main.8e4f1c47.chunk.css",
+    "main.js": "/card_flipping_game/static/js/main.6294541c.chunk.js",
+    "main.js.map": "/card_flipping_game/static/js/main.6294541c.chunk.js.map",
+    "runtime-main.js": "/card_flipping_game/static/js/runtime-main.d6d12936.js",
+    "runtime-main.js.map": "/card_flipping_game/static/js/runtime-main.d6d12936.js.map",
+    "static/js/2.fd2fba32.chunk.js": "/card_flipping_game/static/js/2.fd2fba32.chunk.js",
+    "static/js/2.fd2fba32.chunk.js.map": "/card_flipping_game/static/js/2.fd2fba32.chunk.js.map",
+    "index.html": "/card_flipping_game/index.html",
+    "precache-manifest.e68e4611acc30e3baeff7759a7430916.js": "/card_flipping_game/precache-manifest.e68e4611acc30e3baeff7759a7430916.js",
+    "service-worker.js": "/card_flipping_game/service-worker.js",
+    "static/css/main.8e4f1c47.chunk.css.map": "/card_flipping_game/static/css/main.8e4f1c47.chunk.css.map",
+    "static/js/2.fd2fba32.chunk.js.LICENSE.txt": "/card_flipping_game/static/js/2.fd2fba32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6d12936.js",
+    "static/js/2.fd2fba32.chunk.js",
+    "static/css/main.8e4f1c47.chunk.css",
+    "static/js/main.6294541c.chunk.js"
+  ]
+}
