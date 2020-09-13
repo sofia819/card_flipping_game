@@ -15,7 +15,7 @@ export const Cards = () => {
         openedCount++;
       }
     }
-    if (openedCount % 2 == 0) {
+    if (openedCount % 2 === 0) {
       cards[NUMBER_OF_CARDS - 1] = !cards[NUMBER_OF_CARDS - 1];
     }
     return cards;
